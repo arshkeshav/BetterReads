@@ -16,7 +16,7 @@ Book: date,id,name,desc,cover---read by(n-n)---User:id,name
 |
 written by(n-n)
 |
-Author: id,name,img
+Author: id,name,img.
 
 
 
