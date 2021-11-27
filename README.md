@@ -1,12 +1,12 @@
 # BetterReads
 Scope: Building a book tracker app
 
-### System Design
+#### System Design
 
 -Performant, Handle large data, Reliability, Backend focus
 
-### Technologies
+#### Technologies
 
--Html5, Springboot, Apache Cassandra(database), OpenLib Search API(for search)
+-Html5(UI), Springboot(mvc and security), Apache Cassandra(database), OpenLib Search API(for search)
 
 
