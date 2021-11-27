@@ -7,16 +7,12 @@ Scope: Building a book tracker app
 
 #### Technologies
 
--Html5(UI), Springboot(mvc and security), Apache Cassandra(database), OpenLib Search API(for search)
+-Html5(UI)
 
+-Springboot(mvc and security)
 
-##### Cassandra Schema design
+-Apache Cassandra(database)
 
-Book: date,id,name,desc,cover---read by(n-n)---User:id,name
-|
-written by(n-n)
-|
-Author: id,name,img.
-
+-OpenLib Search API(for search)
 
 
